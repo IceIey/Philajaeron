@@ -1,7 +1,7 @@
-Heading
+# Heading
 =======
 
-SubHeading
+## SubHeading
 ----------
 
   * list item 1
