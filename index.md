@@ -1,27 +1,21 @@
-# Heading
+# Philajaeron
 
-## SubHeading
+This is an Overview of Philajaeron. Key places are marked and referenced in the sections below.
 
-
-  * list item 1
-  * list item 2
-
-  This is a hyperlink to [Google](http://google.com).
-
-  Images are like hyperlinks, but with an exclamation mark in front of them:
-  ![](http://placecats.com/250/250)
+![Philajaeron-map_2024-07-26-01-31(1)](https://github.com/user-attachments/assets/4d54f253-4594-45f6-8156-0e2496515a7c)
 
 
-## Testing some more
+## Islands
+ - Farntry
+ - Kházdûral Havn
 
-## Sub headers
 
-asaerfg
+## Countries
+ - Lepidophris
+ - Thrákdûral
 
-### SubSub headers
+## Factions
+ - Amphibian Syndicate
+ - Booyabluk Clan
 
-euibnsdfgla
 
-## more Subheaders
-
-for testing purposes
