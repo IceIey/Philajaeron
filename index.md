@@ -6,8 +6,8 @@ This is an Overview of Philajaeron. Key places are marked and referenced in the 
 
 
 ## Islands
- - Farntry
- - Kházdûral Havn
+ - [[Farntry-Isle]]
+ - [[Kházdûral Havn]]
 
 
 ## Countries
