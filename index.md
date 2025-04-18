@@ -6,7 +6,7 @@ This is an Overview of Philajaeron. Key places are marked and referenced in the 
 
 
 ## Islands
- - [Farntry-Isle](/src/#!farntry-Isle)
+ - [Farntry-Isle](/#!src/farntry-Isle)
  - [Kházdûral Havn]
 
 
