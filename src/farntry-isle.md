@@ -7,8 +7,7 @@ Tip: Farntry Isle is the southern halfe-isle of [Calanthia](/#!./src/calanthia.m
 ![FarntryMap](/images/Farntry_Isle.png)
 
 
-
-## Places
+## Towns and Villages
 
 ### [Losbach](/#!src/losbach.md)
 
@@ -16,7 +15,19 @@ Tip: Farntry Isle is the southern halfe-isle of [Calanthia](/#!./src/calanthia.m
 
 ### [Berwihl](/#!src/berwihl.md)
 
+### [Rhein]
 
-- [[Rhein]]
-- [[Steienfel]]
-- [[Kapenen]]
+### [Steienfel]
+
+### [Kapenen]
+
+## Geography
+
+### [Weilvood Wetlands](/#!./src/weilwood-wetlands.md)
+
+### [Whispering Woods]
+
+### [Echoing Knoll]
+
+### [Frog Hollow Cave]
+
