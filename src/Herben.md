@@ -1,8 +1,13 @@
-Imagine cobblestone streets winding through Herben, where half-timbered houses lean against each other with their gabled roofs as if whispering secrets.. The air smells of woodsmoke and roasting meat.
+# Herben
 
+## Map
 
+![HerbenMap](/images/Herben.png)
 
-Herben offeres some intruiging places:
+> Imagine cobblestone streets winding through Herben, where half-timbered houses lean against each other with their gabled roofs as if whispering secrets. The air smells of woodsmoke and roasting meat.
+
+## Places
+
 - **Golden Tankard Tavern**
 This bustling tavern, with its overhanging second story and brightly painted sign depicting a golden tankard overflowing with ale, sits at the heart of town. The sounds of laughter and clinking mugs spill out onto the street, inviting weary travelers inside.
 - **Whispering Cauldron**
