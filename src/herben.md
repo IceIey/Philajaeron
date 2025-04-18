@@ -1,5 +1,7 @@
 # Herben
 
+Tip: Herben is a larger town on the island of [Farntry](/#!./src/farntry-isle.md) located between the [Whispering Woods](/#!./src/whispering-woods.md) and the [Veilwood Wetlands](/#!./src/veilwood-wetlands.md) close to [Echoing Knoll](/#!./src/echoing-knoll) and its caverns including [Frog Hollow Cave](/#!./src/frog-hollow-cave.md).
+
 ## Map
 
 ![HerbenMap](/images/Herben.png)
