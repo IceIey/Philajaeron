@@ -4,7 +4,7 @@
 
 ![HerbenMap](/images/Herben.png)
 
-> Imagine cobblestone streets winding through Herben, where half-timbered houses lean against each other with their gabled roofs as if whispering secrets. The air smells of woodsmoke and roasting meat.
+Note: Imagine cobblestone streets winding through Herben, where half-timbered houses lean against each other with their gabled roofs as if whispering secrets. The air smells of woodsmoke and roasting meat.
 
 ## Places
 
