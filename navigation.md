@@ -2,5 +2,5 @@
 
 [Home](index.md)
 [About](about.md)
-[Download](download.md)
+[Tavern Tales](sessionlog.md)
 [gimmick:theme](simplex)
