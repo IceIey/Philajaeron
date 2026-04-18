@@ -4,6 +4,9 @@ Philajaeron is a high fantasy world, inhabited by mostly non-magical creatures.
 Magic is a sacred art only few can master. It is strongly tied to worldly elements and influenced by the _web-layer_ .
 Even if one has the ability to learn the use of magic, often times they don't due to the high learning barrier.
 
+Magic is controled by ika (jap. chikara for energy or force). An invisible web that stretches through an alternate dimension and pierces through to our earthly realm, creating nodes of energy that can be harnessed and exploited. All magic is dependent on these nodes and relies on their existence. Without them, no magic would be possible.
+
+
 
 
 ## Things to add later:
